@@ -46,7 +46,7 @@ Attach two momentary assistive switches.
 
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Printing)
- - [V1.0 STL](/Build_Files/3D_Printing/Switch_Input_3DPCB.stl)
+ - [V1.0 STL](/Build_Files/3D_Printing_Files/Switch_Input_3DPCB.stl)
 
 ## License
 
