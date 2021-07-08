@@ -38,8 +38,8 @@ Attach two momentary assistive switches.
 | Design Rationale     | 1.0     | [Design_Rationale](/Documentation/Switch_Input_Module_v1.0.pdf) |
 | Bill of Materials    | 1.0     | [BOM](/Documentation/Switch_Input_Module_BOM_v1.0.xlsx)                          |
 | Assembly Guide       | 1.0     | [Assembly Guide](/Documentation/Switch_Input_Module_Assembly_Guide_v1.0.pdf)       |
-| Quality Check Guide       | 1.0     | [Assembly Guide](/Documentation/Switch_Input_Module_Quality_Check_Guide_v1.0.pdf)       |
-| Quick Guide          | 1.0     | [Quick_Guide](/Documentation/Switch_Input_Module_Quick_Guide_v1.0.pdf)           |
+| Quality Check Guide  | 1.0     | [Assembly Guide](/Documentation/Switch_Input_Module_Quality_Check_Guide_v1.0.pdf)       |
+| User Quick Guide     | 1.0     | [Quick_Guide](/Documentation/Switch_Input_Module_User_Quick_Guide_v1.0.pdf)           |
 
 ### Design Files
  - [CAD Files](/Design_Files)
