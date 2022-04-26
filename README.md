@@ -70,4 +70,4 @@ We are committed to creating a network of volunteer makers who support people wi
 
 ### Contact Us
 
-For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Device Page]( https://www.makersmakingchange.com/project), [MMC Forum](https://forum.makersmakingchange.com), or contact info@makersmakingchange.com
+For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Device Page]( https://www.makersmakingchange.com/project), [MMC Forum](https://makersmakingchange.com/forum/), or contact info@makersmakingchange.com
