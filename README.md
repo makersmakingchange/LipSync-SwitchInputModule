@@ -1,6 +1,7 @@
 # LipSync Switch Input Module
 
-**As of 2024-Feb-08, this version of the LipSync is now obsolete and has been replaced by the [LipSync 4](https://github.com/makersmakingchange/LipSync).** The LipSync 4 has 3 integrated switch ports for users who are unable to use sip and puff. Design files and documentation are maintained here for information only.
+**As of 2024-Feb-08, this version of the LipSync is now obsolete and has been replaced by the [LipSync 4](https://github.com/makersmakingchange/LipSync).**
+The LipSync 4 has 3 integrated switch ports for users who are unable to use sip and puff. Design files and documentation are maintained here for information only.
 
 The LipSync Switch Input Module enables a user to use a [LipSync Classic](https://www.makersmakingchange.com/project/lipsync-classic/) with two assistive switches instead of the standard Sip and Puff mouthpiece. This can be a helpful adaptation for anyone who has difficulty forming their lips around the mouthpiece or generating the typical sips and puffs.
 
@@ -66,7 +67,9 @@ The LipSync Switch Input Module was designed by Neil Squire Society / Makers Mak
 Designers:
   - Derrick Andrews, Neil Squire Society / Makers Making Change.
 
+----
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -85,3 +88,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
+<!-- ABOUT MMC END -->
